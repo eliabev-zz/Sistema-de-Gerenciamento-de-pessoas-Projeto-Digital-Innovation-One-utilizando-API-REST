@@ -13,7 +13,7 @@
 
  O que vamos utilizar:
 
-     Java 16
+     Java 11 ou versões superiores
      Maven 3.6.3
      Spring Boot (última versão estável lançada)
      GIT/ GITHUB para versionamento de código
