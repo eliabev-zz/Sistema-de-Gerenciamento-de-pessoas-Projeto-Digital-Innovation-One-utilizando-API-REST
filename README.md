@@ -8,7 +8,7 @@
  Objetivos da Aula:
 
      Desenvolver uma API REST para o cadastro de usuário.
-     O que é o padrão REST, e associá-lo ao projeto
+     O que é o padrão REST, e associá-lo ao projeto.
      Codificar, compartilhar e aprender todos juntos.
 
  O que vamos utilizar:
