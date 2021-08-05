@@ -25,7 +25,7 @@ public class PersonDTO {
 
     @NotEmpty
     @Size(min = 2, max = 100)
-    private String Lastname;
+    private String lastName;
 
     @NotEmpty
     @CPF
